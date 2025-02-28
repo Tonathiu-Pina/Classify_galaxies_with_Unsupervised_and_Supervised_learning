@@ -1,6 +1,6 @@
 # Classify_galaxies_with_Unsupervised__Learning
 
-Here you will find a compilation of different unsupervised Machine Learning (ML) techniques used for the classification of optical images of galaxies.
+Here you will find a compilation of different unsupervised learning techniques used for the classification of optical images of galaxies.
 
 The techniques are:
   1. K-means
