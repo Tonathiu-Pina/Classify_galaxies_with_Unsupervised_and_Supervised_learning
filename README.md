@@ -1,6 +1,6 @@
 # Classify_galaxies_with_Unsupervised__Learning
 
-Here you will find a compilation of different unsupervised learning techniques used for the classification of optical images of galaxies.
+Here you will find a compilation of different unsupervised & supervised learning techniques used for the classification of optical images of galaxies.
 
 The techniques are:
   1. K-means
@@ -8,6 +8,7 @@ The techniques are:
   3. HDBSCAN
   4. Self-Organizing Maps
   5. Gausssian Mixture Models
+  6. Convolutional Neural Network
 
 The images were obtained from the Galaxy Zoo project, specifically from *Galaxy Zoo 2* [1].
 
